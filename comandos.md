@@ -55,3 +55,9 @@ configurar dentro do main tudo que está abaixo
     },
 
 configurar o plugin de drag e no-drag no tailwind.config.js
+
+npm i electron-router-dom
+npm i react-router-dom
+npm install @tiptap/react @tiptap/starter-kit @tiptap/extension-document @tiptap/extension-placeholder @tiptap/extension-typography @tiptap/extension-highlight
+npm i -D @tailwindcss/typography
+npm i @radix-ui/react-collapsible
