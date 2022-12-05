@@ -61,3 +61,4 @@ npm i react-router-dom
 npm install @tiptap/react @tiptap/starter-kit @tiptap/extension-document @tiptap/extension-placeholder @tiptap/extension-typography @tiptap/extension-highlight
 npm i -D @tailwindcss/typography
 npm i @radix-ui/react-collapsible
+npm i @tanstack/react-query
