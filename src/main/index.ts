@@ -38,7 +38,7 @@ function createWindow(): void {
     return { action: "deny" };
   });
 
-  const devServerURL = createURLRoute(process.env.ELECTRON_RENDER_URL!, "main");
+  const devServerURL = createURLRoute(process.env.ELECTRON_RENDERER_URL!, "main");
 
   const fileRoute = createFileRoute(
     path.join(__dirname, "../renderer/index.html"),
